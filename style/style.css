@@ -66,8 +66,8 @@ main a:hover{
 
 header{
     background-color: var(--cor3);
-    min-height: 150px;
-    text-align: center;
+    min-height: 100px;
+    text-align: justify;
     padding-top: 40px;
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
 }
@@ -84,6 +84,7 @@ header > p{
     color: #fff;
     font-size: 1.2em;
     width: 500px;
+    text-align: justify;
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
