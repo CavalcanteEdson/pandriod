@@ -112,11 +112,9 @@ nav > a:hover{
 }
 
 main{
-    /*
-    min-width: 300px;
+    min-width: 200px;
     max-width: 1000px;
     margin: auto;
-    */
     margin-bottom: 20px;
     padding: 20px;
     background-color: #fff;
@@ -141,7 +139,7 @@ main h2{
 }
 
 main {
-    min-width: 300px;
+    min-width: 200px;
     max-width: 1000px;
     margin: auto;
 }
