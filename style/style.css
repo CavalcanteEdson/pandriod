@@ -84,7 +84,7 @@ header > h1{
 header > p{
     color: #fff;
     font-size: 1.2em;
-    width: 350px;
+    /*width: 100px;*/
     text-align: center;
     margin: auto;
     padding-right: 10px;
